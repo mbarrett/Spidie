@@ -1,0 +1,13 @@
+C:\src\utils\Spidie\Spidie\bin\Debug\Spidie.exe.config
+C:\src\utils\Spidie\Spidie\bin\Debug\Spidie.exe
+C:\src\utils\Spidie\Spidie\bin\Debug\Spidie.pdb
+C:\src\utils\Spidie\Spidie\bin\Debug\EasyHttp.dll
+C:\src\utils\Spidie\Spidie\bin\Debug\HtmlAgilityPack.dll
+C:\src\utils\Spidie\Spidie\bin\Debug\JsonFx.dll
+C:\src\utils\Spidie\Spidie\bin\Debug\EasyHttp.pdb
+C:\src\utils\Spidie\Spidie\bin\Debug\HtmlAgilityPack.pdb
+C:\src\utils\Spidie\Spidie\bin\Debug\HtmlAgilityPack.xml
+C:\src\utils\Spidie\Spidie\bin\Debug\JsonFx.xml
+C:\src\utils\Spidie\Spidie\obj\Debug\Spidie.csprojResolveAssemblyReference.cache
+C:\src\utils\Spidie\Spidie\obj\Debug\Spidie.exe
+C:\src\utils\Spidie\Spidie\obj\Debug\Spidie.pdb
